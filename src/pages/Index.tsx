@@ -125,24 +125,25 @@ const Index = () => {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12 animate-fade-in">
               <h2 className="text-4xl md:text-5xl font-bold mb-4">Обо мне</h2>
-              <div className="w-20 h-1 bg-primary mx-auto" />
+              <p className="text-xl text-muted-foreground mt-4">Дроздов Артём Александрович</p>
+              <div className="w-20 h-1 bg-primary mx-auto mt-4" />
             </div>
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div className="space-y-6 animate-slide-in-left">
                 <div className="bg-card p-8 rounded-2xl shadow-lg border border-border">
-                  <Icon name="Award" size={48} className="text-primary mb-4" />
-                  <h3 className="text-2xl font-bold mb-3">Мастер спорта</h3>
+                  <Icon name="GraduationCap" size={48} className="text-primary mb-4" />
+                  <h3 className="text-2xl font-bold mb-3">Студент 4 курса</h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    Более 15 лет опыта в профессиональном волейболе. Участник международных турниров и чемпионатов.
+                    Факультет физической культуры и спорта (ФКиС). Изучаю современные методики спортивной подготовки и тренерское мастерство.
                   </p>
                 </div>
               </div>
               <div className="space-y-6 animate-fade-in">
                 <div className="bg-card p-8 rounded-2xl shadow-lg border border-border">
-                  <Icon name="GraduationCap" size={48} className="text-secondary mb-4" />
-                  <h3 className="text-2xl font-bold mb-3">Тренер-преподаватель</h3>
+                  <Icon name="Trophy" size={48} className="text-secondary mb-4" />
+                  <h3 className="text-2xl font-bold mb-3">Капитан команды</h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    Сертифицированный специалист по подготовке спортсменов. Автор методических пособий и тренировочных программ.
+                    Капитан футбольной команды университета. Активно занимаюсь футболом и веду команду к победам.
                   </p>
                 </div>
               </div>
@@ -151,10 +152,10 @@ const Index = () => {
               <div className="flex items-start gap-4">
                 <Icon name="Target" size={32} className="text-primary mt-1 flex-shrink-0" />
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Моя миссия</h3>
+                  <h3 className="text-xl font-bold mb-2">Моя цель</h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    Развитие волейбола через внедрение современных методик тренировок, создание качественного 
-                    оборудования и образовательных материалов для спортсменов всех уровней подготовки.
+                    Развитие спорта через профессиональную подготовку, лидерство в команде и создание качественных 
+                    учебных материалов для спортсменов всех уровней подготовки.
                   </p>
                 </div>
               </div>
