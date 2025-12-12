@@ -33,25 +33,25 @@ const Index = () => {
       title: 'Блокировочный тренажер',
       description: 'Улучшает технику блокирования и прыжковую выносливость',
       icon: 'Shield',
-      link: 'https://ru.wikipedia.org/wiki/Блокирование_(волейбол)'
+      link: 'https://www.sport-in-medvedkovo.ru/volejbolnye-trenazhery/'
     },
     {
       title: 'Тренажер для подачи',
       description: 'Отработка точности и силы подачи мяча',
       icon: 'Target',
-      link: 'https://ru.wikipedia.org/wiki/Подача_(волейбол)'
+      link: 'https://www.volleyballmag.ru/equipment/training-equipment/'
     },
     {
       title: 'Сетка-симулятор',
       description: 'Развитие реакции и координации движений',
       icon: 'Activity',
-      link: 'https://ru.wikipedia.org/wiki/Волейбол'
+      link: 'https://www.sportszone.ru/catalog/voleybol/trenazhery/'
     },
     {
       title: 'Силовой комплекс',
       description: 'Развитие взрывной силы и выносливости спортсменов',
       icon: 'Dumbbell',
-      link: 'https://ru.wikipedia.org/wiki/Физическая_подготовка'
+      link: 'https://www.fitness-pro.ru/biblioteka/silovye-trenazhery-dlya-sportsmenov.html'
     }
   ];
 
