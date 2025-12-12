@@ -30,28 +30,28 @@ const Index = () => {
 
   const equipmentItems = [
     {
-      title: 'Блокировочный тренажер',
-      description: 'Улучшает технику блокирования и прыжковую выносливость',
-      icon: 'Shield',
-      link: 'https://www.sport-in-medvedkovo.ru/volejbolnye-trenazhery/'
-    },
-    {
-      title: 'Тренажер для подачи',
-      description: 'Отработка точности и силы подачи мяча',
+      title: 'Тренажер для нападающего удара',
+      description: 'Фиксирует мяч на необходимой высоте для отработки техники удара',
       icon: 'Target',
-      link: 'https://www.volleyballmag.ru/equipment/training-equipment/'
+      link: 'https://volleyplay.ru/trenazher/'
     },
     {
-      title: 'Сетка-симулятор',
-      description: 'Развитие реакции и координации движений',
+      title: 'Ручной держатель мяча',
+      description: 'Телескопическая штанга с зажимами для отработки точности ударов',
+      icon: 'Shield',
+      link: 'https://www.atlet-sport.ru/product/trenazher-dlya-voleybola'
+    },
+    {
+      title: 'Тренажеры VolleyPlay',
+      description: 'Профессиональное оборудование: рамы с мячами, тумбы, мишени',
       icon: 'Activity',
-      link: 'https://www.sportszone.ru/catalog/voleybol/trenazhery/'
+      link: 'https://volleyplay.ru/trenazhery/'
     },
     {
-      title: 'Силовой комплекс',
-      description: 'Развитие взрывной силы и выносливости спортсменов',
+      title: 'Волейбольные тренажеры Геркулес',
+      description: 'Автоматическая подача мячей, диспенсеры, держатели от производителя',
       icon: 'Dumbbell',
-      link: 'https://www.fitness-pro.ru/biblioteka/silovye-trenazhery-dlya-sportsmenov.html'
+      link: 'https://royal-sport.ru/po-vidam-sporta/volejbol/volejbolnye-trenazhery/'
     }
   ];
 
