@@ -63,7 +63,7 @@ const Index = () => {
             <h1 className="text-2xl font-bold text-primary">🏐 ВОЛЕЙБОЛ</h1>
             <div className="hidden md:flex gap-6">
               {[
-                { id: 'home', label: 'Главная' },
+                { id: 'home', label: 'Волейбол' },
                 { id: 'about', label: 'Обо мне' },
                 { id: 'equipment', label: 'Тренажеры' },
                 { id: 'books', label: 'Учебники' }
