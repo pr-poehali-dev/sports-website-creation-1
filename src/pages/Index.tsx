@@ -242,7 +242,7 @@ const Index = () => {
                   </div>
                 </div>
                 <Button size="lg" className="w-full md:w-auto text-lg px-8" asChild>
-                  <a href="#">
+                  <a href="https://perewerzeva.ucoz.ru/Documents/Vneuroch_deyat/vneuroch_deyatelnost_06.pdf" target="_blank" rel="noopener noreferrer">
                     <Icon name="Download" size={20} className="mr-2" />
                     Скачать учебник
                   </a>
