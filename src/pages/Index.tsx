@@ -214,7 +214,7 @@ const Index = () => {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div className="animate-scale-in">
                 <img 
-                  src="https://cdn.poehali.dev/projects/7b84bc79-2949-4f51-bea6-199d7cde6b76/files/e837f145-1a22-456d-a4a6-50b90c406dfe.jpg"
+                  src="https://cdn.poehali.dev/files/гпт.jpg"
                   alt="Обложка учебника по волейболу"
                   className="w-full rounded-2xl shadow-2xl hover:scale-105 transition-transform duration-300"
                 />
